@@ -1,0 +1,31 @@
+*{
+    margin: 0px;
+}
+
+header{
+    display: flex;
+    justify-content: center;
+    background-color: #00001b;
+    color: white;
+    box-shadow: 5px 5px #000000;
+}
+
+h1{
+    padding: 0.5rem;  
+}
+
+#content{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding-top: 1rem;
+}
+
+#textInput{
+    width: 50%;
+    text-align: center;
+    background-color: #ffffff;
+    color: #000000;
+    border: 0.2rem solid #000000;
+}
+
